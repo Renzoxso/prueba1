@@ -4,7 +4,7 @@ const pool = mysql.createPool({
   host: "MYSQL1002.site4now.net",
   user: "ab8bbc_ventas",
   password: "#Renzo2005",
-  database: "railwaydb_ab8bbc_ventas",
+  database: "db_ab8bbc_ventas",
   port: 3306,
   waitForConnections: true,
   connectionLimit: 10,
